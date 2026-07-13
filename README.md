@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
