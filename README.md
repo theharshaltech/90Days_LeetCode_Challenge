@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
