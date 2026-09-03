@@ -1,0 +1,7 @@
+class Solution(object):
+    def uniformArray(self, nums1):
+        """
+        :type nums1: List[int]
+        :rtype: bool
+        """
+        return all(x % 2 == 0 for x in nums1) or min(nums1) % 2 == 1
