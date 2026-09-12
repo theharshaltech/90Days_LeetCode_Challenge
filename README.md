@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3536-maximum-product-of-two-digits) |
