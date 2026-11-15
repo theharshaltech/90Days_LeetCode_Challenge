@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0022-generate-parentheses) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0012-integer-to-roman) |
 | [1096-brace-expansion-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0836-rectangle-overlap) |
