@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0190-reverse-bits) |
 | [1386-cinema-seat-allocation](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -555,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
