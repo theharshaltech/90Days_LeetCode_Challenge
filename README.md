@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0486-predict-the-winner](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0835-image-overlap) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1331-rank-transform-of-an-array) |
