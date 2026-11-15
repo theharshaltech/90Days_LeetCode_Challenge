@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
