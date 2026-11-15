@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
