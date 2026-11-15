@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0486-predict-the-winner](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/theharshaltech/90Days_LeetCode_Challenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
